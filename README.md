@@ -1,4 +1,4 @@
-![](https://github.com/russhughes/TFT_Menu/blob/master/images/FontSize2.png)
+![](https://github.com/russhughes/TFT_Menu/blob/master/images/FontSize2.png) ![](https://github.com/russhughes/TFT_Menu/blob/master/images/FontSize1.png)
 
 # TFT_Menu  
 
