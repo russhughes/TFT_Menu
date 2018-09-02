@@ -1,10 +1,8 @@
-![](https://github.com/russhughes/TFT_Menu/blob/master/images/FontSize2.png) ![](https://github.com/russhughes/TFT_Menu/blob/master/images/FontSize1.png)
-
 # TFT_Menu  
 
 TFT_MENU is a simple Arduino menu class for small ST7735 TFT displays using a clickable rotary encoder. 
 
-
+![](https://github.com/russhughes/TFT_Menu/blob/master/images/FontSize2.png) ![](https://github.com/russhughes/TFT_Menu/blob/master/images/FontSize1.png)
 
 ### 3rd Party libraries used:
 * [Bodmer's Arduino graphics library for ST7735](https://github.com/Bodmer/TFT_ST7735) [(https://github.com/Bodmer/TFT_ST7735)](https://github.com/Bodmer/TFT_ST7735)
