@@ -251,7 +251,7 @@ int8_t TFT_MENU::show(MENU menu[], int8_t active = 1) {
 	}
 	while (again);
 
-	return current;
+	return menu[current].value;
 }
 
 ///////////////////////////////////////////////////////////////////////////
