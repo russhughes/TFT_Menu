@@ -85,7 +85,7 @@ class TFT_MENU
 		
     private:
 
-    	printSpaces(int8_t spaces = 1);
+    	void printSpaces(int8_t spaces = 1);
 
         int     font;
         int16_t fontHeight;
@@ -292,7 +292,7 @@ void TFT_MENU::setColors(
 //
 ///////////////////////////////////////////////////////////////////////////
 
-TFT_MENU::printSpaces(int8_t spaces) {
+void TFT_MENU::printSpaces(int8_t spaces) {
 	if (spaces > 0)
 		for (int i = 0; i < spaces; i++)
 			tft.print(F(" "));
